@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+.vscode/
+.idea/
+*.log
+# datasets fuente (xlsx) - se versionan solo los parquet ligeros en data/
+*.xlsx
