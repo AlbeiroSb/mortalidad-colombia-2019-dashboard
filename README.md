@@ -4,7 +4,7 @@ Dashboard interactivo desarrollado con **Python + Dash + Plotly** para el análi
 
 ## Integrantes del grupo
 
-- _(Completar nombres del grupo de máximo 4 estudiantes)_
+- Albeiro Sarmiento Barrios G2 MIA 1S
 
 ## Enlaces de la entrega
 
