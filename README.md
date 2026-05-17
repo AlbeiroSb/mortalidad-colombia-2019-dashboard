@@ -8,8 +8,8 @@ Dashboard interactivo desarrollado con **Python + Dash + Plotly** para el análi
 
 ## Enlaces de la entrega
 
-- **Aplicación desplegada (Render):** `https://<nombre-servicio>.onrender.com`
-- **Repositorio GitHub:** `https://github.com/<usuario>/<repo>`
+- **Aplicación desplegada (Render):** `https://mortalidad-colombia-2019-dashboard-mp9n.onrender.com/`
+- **Repositorio GitHub:** `https://github.com/AlbeiroSb/mortalidad-colombia-2019-dashboard`
 
 ---
 
@@ -118,8 +118,6 @@ python prep_data.py
 ```
 
 ## 8. Visualizaciones y hallazgos
-
-> Capturas: ubicar los PNG en `docs/img/` y reemplazar los placeholders.
 
 ### 8.1. Mapa de muertes por departamento
 `scatter_mapbox` con burbujas proporcionales al total de defunciones, centradas en el centroide de cada departamento.
